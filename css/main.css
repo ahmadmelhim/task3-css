@@ -1,0 +1,63 @@
+
+h1{
+    margin-left: 10px;
+}
+img{
+    margin: 2%;
+    width: 400px;
+    height: 350px;
+    
+}
+
+
+.side{
+    float: left;
+    margin: 10px;
+    border: 1px solid black;  
+    width: 22.3%;
+    
+}
+.button_1{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    color: white;
+    background-color: blue;
+    padding: 10px 125px;
+    text-align: center;
+}
+
+.button_2{
+    color:blue;
+    padding: 10px 15px;
+    margin-left: 5px;
+    
+}
+
+
+.orgenal{
+    margin-left: 10px;
+    float: left;
+
+}
+
+h2,p,h4,h5{
+    margin-left: 10px;
+
+}
+.price_1 {
+    margin-right: 5px;
+    color: green;
+    float: left;
+    
+}
+
+.price_2 {
+    text-decoration: line-through;
+    color: red;
+    float: left;
+    
+    
+}
+.clear{
+    clear: both;
+}
